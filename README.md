@@ -179,11 +179,11 @@ A Machine Learning project that predicts the severity of cyber attacks and estim
 - 📉 Matplotlib
 
 ### ⭐ Key Features
-- 🔍 Data Preprocessing
-- 📊 Threat Severity Prediction
-- 📈 Model Training & Evaluation
-- 📉 Data Visualization
-- 🤖 Machine Learning Classification
+✅ 🔍 Data Preprocessing
+✅ 📊 Threat Severity Prediction
+✅ 📈 Model Training & Evaluation
+✅ 📉 Data Visualization
+✅ 🤖 Machine Learning Classification
 
 <a href="#">
 <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
