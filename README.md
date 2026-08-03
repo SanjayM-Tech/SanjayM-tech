@@ -212,7 +212,7 @@ A full-stack web application for managing student records, attendance, courses, 
 - 📊 Result Management
 - 🔐 Admin Dashboard
 
-<a href="#">
+<a href="https://github.com/SanjayM-Tech/studentDataManagement.git">
 <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -245,7 +245,7 @@ A responsive online shopping platform where users can browse products, search it
 - 💳 Order Management
 - 📱 Responsive Design
 
-<a href="#">
+<a href="https://github.com/SanjayM-Tech/Ecommerce-website.git">
 <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
