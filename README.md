@@ -206,16 +206,26 @@ A full-stack web application for managing student records, attendance, courses, 
 - 🍃 MongoDB
 
 ### ⭐ Key Features
--➕ Create Records
--👀 View Records
--✏️ Update Records
--🗑️ Delete Records
--🔍 Search Records
--📝 Data Entry Form
--💾 Database Integration
--✅ Input Validation
--📱 Responsive Design
--🔔 Success Notifications
+
+✅ ➕ Create Records
+
+✅ 👀 View Records
+
+✅ ✏️ Update Records
+
+✅ 🗑️ Delete Records
+
+✅ 🔍 Search Records
+
+✅ 📝 Data Entry Form
+
+✅ 💾 Database Integration
+
+✅ ✅ Input Validation
+
+✅ 📱 Responsive Design
+
+✅ 🔔 Success Notifications
 
 <a href="https://github.com/SanjayM-Tech/studentDataManagement.git">
 <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
@@ -242,20 +252,33 @@ A responsive online shopping platform where users can browse products, search it
 - 🍃 MongoDB
 
 ### ⭐ Key Features
--👤 User Registration
--🔐 User Login
--🏠 Product Dashboard
--🛍️ Product Details
--🛒 Shopping Cart
--📦 Order Management
--💵 Cash on Delivery
--🔔 Order Notifications
--👨‍💼 Admin Dashboard
--➕ Product Management
--📋 Customer Management
--🚚 Order Tracking
--📱 Responsive Design
--🚪 Secure Logout
+✅ 👤 User Registration
+
+✅ 🔐 User Login
+
+✅ 🏠 Product Dashboard
+
+✅ 🛍️ Product Details
+
+✅ 🛒 Shopping Cart
+
+✅ 📦 Order Management
+
+✅ 💵 Cash on Delivery
+
+✅ 🔔 Order Notifications
+
+✅ 👨‍💼 Admin Dashboard
+
+✅ ➕ Product Management
+
+✅ 📋 Customer Management
+
+✅ 🚚 Order Tracking
+
+✅ 📱 Responsive Design
+
+✅ 🚪 Secure Logout
 
 <a href="https://github.com/SanjayM-Tech/Ecommerce-website.git">
 <img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
