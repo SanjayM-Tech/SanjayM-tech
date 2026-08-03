@@ -180,9 +180,13 @@ A Machine Learning project that predicts the severity of cyber attacks and estim
 
 ### ⭐ Key Features
 ✅ 🔍 Data Preprocessing
+
 ✅ 📊 Threat Severity Prediction
+
 ✅ 📈 Model Training & Evaluation
+
 ✅ 📉 Data Visualization
+
 ✅ 🤖 Machine Learning Classification
 
 <a href="#">
