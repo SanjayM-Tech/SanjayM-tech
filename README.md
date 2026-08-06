@@ -20,7 +20,6 @@
 - 🎓 B.Sc. in Artificial Intelligence & Machine Learning Student
 - 🌱 Currently learning **Machine Learning** & **Full Stack Web Development**
 - 💻 Passionate about building modern and responsive web applications
-- 🛡️ Interested in Cybersecurity and Secure Software Development
 - 🚀 Always exploring new technologies and improving my coding skills
 - 🎯 Goal: Become a skilled Full Stack Developer and Machine Learning Engineer
 
