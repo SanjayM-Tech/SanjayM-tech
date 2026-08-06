@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Sc. in Artificial Intelligence & Machine Learning Student
 - 🌱 Currently learning **Machine Learning** & **Full Stack Web Development**
@@ -26,27 +26,7 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sanjay-m-1785163a8">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sanjay.aimlcore@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/im.sxnjxyy">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💭 Personal Motto
+# 💭 Personal Motto
 
 <div align="center">
 
@@ -58,7 +38,7 @@
 
 ---
 
-## 👨‍💻 Fun Facts
+# 👨‍💻 Fun Facts
 
 - 💻 I enjoy creating real-world web applications.
 - 🤖 I love exploring Machine Learning concepts.
@@ -66,8 +46,8 @@
 - 📚 I believe consistency beats perfection.
 - ☕ Coffee + Coding = Productivity 🚀
 
----
----
+---  
+
 
 # 💻 Tech Stack
 
@@ -153,8 +133,6 @@
 - 🛡️ Understanding Cybersecurity concepts
 
 ---
----
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -163,14 +141,16 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛡️ Cyber Attack Severity and Damage Prediction Using Machine Learning
 
 ### 📖 Overview
+
 A Machine Learning project that predicts the severity of cyber attacks and estimates potential damage using historical cybersecurity datasets. It helps identify threats early and supports better security decisions.
 
 ### 🛠️ Technologies
+
 - 🤖 Machine Learning
 - 📊 Scikit-learn
 - 📈 Pandas
@@ -179,6 +159,7 @@ A Machine Learning project that predicts the severity of cyber attacks and estim
 - 📉 Matplotlib
 
 ### ⭐ Key Features
+
 ✅ 🔍 Data Preprocessing
 
 ✅ 📊 Threat Severity Prediction
@@ -195,14 +176,16 @@ A Machine Learning project that predicts the severity of cyber attacks and estim
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎓 Student Management System
 
 ### 📖 Overview
+
 A full-stack web application for managing student records, attendance, courses, and academic information through an easy-to-use admin dashboard.
 
 ### 🛠️ Technologies
+
 - 🌐 HTML
 - 🎨 CSS
 - ⚡ JavaScript
@@ -225,7 +208,7 @@ A full-stack web application for managing student records, attendance, courses, 
 
 ✅ 💾 Database Integration
 
-✅ ✅ Input Validation
+✅ Input Validation
 
 ✅ 📱 Responsive Design
 
@@ -241,14 +224,16 @@ A full-stack web application for managing student records, attendance, courses, 
 
 <tr>
 
-<td colspan="2">
+<td colspan="2" valign="top">
 
 ## 🛒 E-Commerce Website
 
 ### 📖 Overview
+
 A responsive online shopping platform where users can browse products, search items, manage their cart, and place orders through a modern and user-friendly interface.
 
 ### 🛠️ Technologies
+
 - 🌐 HTML
 - 🎨 CSS
 - ⚡ JavaScript
@@ -256,6 +241,7 @@ A responsive online shopping platform where users can browse products, search it
 - 🍃 MongoDB
 
 ### ⭐ Key Features
+
 ✅ 👤 User Registration
 
 ✅ 🔐 User Login
@@ -294,8 +280,9 @@ A responsive online shopping platform where users can browse products, search it
 
 </table>
 
----
+</div>
 
+---
 # 🏅 Achievements
 
 🏆 Completed Web Development Projects
@@ -307,3 +294,67 @@ A responsive online shopping platform where users can browse products, search it
 💡 Passionate About Solving Real-World Problems Through Code
 
 ---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:sanjay.aimlcore@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanjay-m-1785163a8">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SanjayM-Tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/im.sxnjxyy">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 <b>Email</b><br>
+<a href="mailto:sanjay.aimlcore@gmail.com">sanjay.aimlcore@gmail.com</a>
+
+<br><br>
+
+💼 <b>LinkedIn</b><br>
+<a href="https://www.linkedin.com/in/sanjay-m-1785163a8">
+linkedin.com/in/sanjay-m-1785163a8
+</a>
+
+<br><br>
+
+🐙 <b>GitHub</b><br>
+<a href="https://github.com/SanjayM-Tech">
+github.com/SanjayM-Tech
+</a>
+
+<br><br>
+
+📷 <b>Instagram</b><br>
+<a href="https://www.instagram.com/im.sxnjxyy">
+instagram.com/im.sxnjxyy
+</a>
+
+</p>
+
+---
+
+<h2 align="center">
+⭐ Thanks for Visiting My GitHub Profile ⭐
+</h2>
+
+<p align="center">
+If you like my projects, consider giving a ⭐ to my repositories and feel free to connect with me.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SanjayM-Tech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
