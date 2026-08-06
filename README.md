@@ -355,6 +355,4 @@ instagram.com/im.sxnjxyy
 If you like my projects, consider giving a ⭐ to my repositories and feel free to connect with me.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SanjayM-Tech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+
